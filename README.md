@@ -21,6 +21,11 @@ with your experience ind nice way to apply for suitable matching jobs.
   - Project Samples.
   - Testimonials.
   - Contact Form.
+ 
+    ## How to run
+   ###  From the commandline run
+    - npm i
+    - npm run dev
 
 ## Website Images
 
